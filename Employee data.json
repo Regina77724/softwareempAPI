@@ -1,0 +1,194 @@
+{
+  "employees": [
+    {
+      "employee_id": "E10001",
+      "name": "John Doe",
+      "designation": "Software Engineer",
+      "department": "IT",
+      "salary_details": {
+        "basic_salary": 50000,
+        "hra": 20000,
+        "allowances": 10000,
+        "gross_salary": 80000,
+        "tax_deductions": 10000,
+        "net_salary": 70000
+      },
+      "bank_details": {
+        "account_number": "1234567890",
+        "bank_name": "XYZ Bank",
+        "ifsc_code": "XYZ0001234"
+      }
+    },
+    {
+      "employee_id": "E10002",
+      "name": "Jane Smith",
+      "designation": "Senior Developer",
+      "department": "IT",
+      "salary_details": {
+        "basic_salary": 70000,
+        "hra": 25000,
+        "allowances": 15000,
+        "gross_salary": 110000,
+        "tax_deductions": 15000,
+        "net_salary": 95000
+      },
+      "bank_details": {
+        "account_number": "0987654321",
+        "bank_name": "ABC Bank",
+        "ifsc_code": "ABC0005678"
+      }
+    },
+    {
+      "employee_id": "E10003",
+      "name": "David Johnson",
+      "designation": "Project Manager",
+      "department": "IT",
+      "salary_details": {
+        "basic_salary": 90000,
+        "hra": 30000,
+        "allowances": 20000,
+        "gross_salary": 140000,
+        "tax_deductions": 20000,
+        "net_salary": 120000
+      },
+      "bank_details": {
+        "account_number": "2345678901",
+        "bank_name": "DEF Bank",
+        "ifsc_code": "DEF0003456"
+      }
+    },
+    {
+      "employee_id": "E10004",
+      "name": "Emily Davis",
+      "designation": "HR Manager",
+      "department": "Human Resources",
+      "salary_details": {
+        "basic_salary": 60000,
+        "hra": 22000,
+        "allowances": 12000,
+        "gross_salary": 94000,
+        "tax_deductions": 12000,
+        "net_salary": 82000
+      },
+      "bank_details": {
+        "account_number": "3456789012",
+        "bank_name": "GHI Bank",
+        "ifsc_code": "GHI0006789"
+      }
+    },
+    {
+      "employee_id": "E10005",
+      "name": "Michael Brown",
+      "designation": "DevOps Engineer",
+      "department": "IT",
+      "salary_details": {
+        "basic_salary": 75000,
+        "hra": 28000,
+        "allowances": 18000,
+        "gross_salary": 121000,
+        "tax_deductions": 18000,
+        "net_salary": 103000
+      },
+      "bank_details": {
+        "account_number": "4567890123",
+        "bank_name": "JKL Bank",
+        "ifsc_code": "JKL0009012"
+      }
+    },
+    {
+      "employee_id": "E10006",
+      "name": "Sarah Wilson",
+      "designation": "UI/UX Designer",
+      "department": "Design",
+      "salary_details": {
+        "basic_salary": 55000,
+        "hra": 18000,
+        "allowances": 8000,
+        "gross_salary": 81000,
+        "tax_deductions": 11000,
+        "net_salary": 70000
+      },
+      "bank_details": {
+        "account_number": "5678901234",
+        "bank_name": "MNO Bank",
+        "ifsc_code": "MNO0002345"
+      }
+    },
+    {
+      "employee_id": "E10007",
+      "name": "Chris Evans",
+      "designation": "QA Engineer",
+      "department": "Quality Assurance",
+      "salary_details": {
+        "basic_salary": 65000,
+        "hra": 21000,
+        "allowances": 12000,
+        "gross_salary": 98000,
+        "tax_deductions": 13000,
+        "net_salary": 85000
+      },
+      "bank_details": {
+        "account_number": "6789012345",
+        "bank_name": "PQR Bank",
+        "ifsc_code": "PQR0005678"
+      }
+    },
+    {
+      "employee_id": "E10008",
+      "name": "Olivia Taylor",
+      "designation": "Business Analyst",
+      "department": "Business",
+      "salary_details": {
+        "basic_salary": 70000,
+        "hra": 26000,
+        "allowances": 16000,
+        "gross_salary": 112000,
+        "tax_deductions": 16000,
+        "net_salary": 96000
+      },
+      "bank_details": {
+        "account_number": "7890123456",
+        "bank_name": "STU Bank",
+        "ifsc_code": "STU0008901"
+      }
+    },
+    {
+      "employee_id": "E10009",
+      "name": "Daniel Martinez",
+      "designation": "Product Manager",
+      "department": "Product",
+      "salary_details": {
+        "basic_salary": 85000,
+        "hra": 32000,
+        "allowances": 22000,
+        "gross_salary": 139000,
+        "tax_deductions": 19000,
+        "net_salary": 120000
+      },
+      "bank_details": {
+        "account_number": "8901234567",
+        "bank_name": "VWX Bank",
+        "ifsc_code": "VWX0001234"
+      }
+    },
+    {
+      "employee_id": "E10010",
+      "name": "Sophia Moore",
+      "designation": "System Administrator",
+      "department": "IT",
+      "salary_details": {
+        "basic_salary": 62000,
+        "hra": 23000,
+        "allowances": 14000,
+        "gross_salary": 99000,
+        "tax_deductions": 14000,
+        "net_salary": 85000
+      },
+      "bank_details": {
+        "account_number": "9012345678",
+        "bank_name": "YZA Bank",
+        "ifsc_code": "YZA0003456"
+      }
+    }
+  ]
+}
